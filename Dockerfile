@@ -1,4 +1,4 @@
-FROM golang:1.22rc2-bookworm
+FROM golang:1.25rc2-bookworm
 
 WORKDIR /go/src/
 
